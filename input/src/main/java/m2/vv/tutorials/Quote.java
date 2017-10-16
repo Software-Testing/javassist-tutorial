@@ -31,5 +31,3 @@ public class Quote {
     }
 
 }
-
-//TODO: Finish the Quote class. Add a FileUtils class with 5 methods using java.io.File. Create an App class that builds the quotes and saves them in a file. Put a Point class.

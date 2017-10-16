@@ -24,7 +24,7 @@ All tasks will be coded in the `quickstart` module.
     * Add getters and setters to both fields.
     * Override the `toString` method.
 
-3. Use a `Loader` to report all classes being loaded during the execution of the `QuotesApp` class located iun the `input` module.
+3. Use a `Loader` to report all classes being loaded during the execution of the `QuotesApp` class located in the `input` module.
 
 ## Independent tasks
 
